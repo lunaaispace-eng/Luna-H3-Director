@@ -1,2 +1,14 @@
 __pycache__/
 *.pyc
+
+# Dev-side only (public repo): project records and agent files stay local.
+AGENTS.md
+CLAUDE.md
+STATUS.md
+SPEC.md
+BUILD.md
+plans/
+.claude/
+.codex/
+# Agent scratch, deleted after use.
+.work/
